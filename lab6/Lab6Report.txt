@@ -1,0 +1,120 @@
+current sum of the generated number up to now is 0 going to add 3 to it.
+current sum of the generated number up to now is 3 going to add 3 to it.
+current sum of the generated number up to now is 6 going to add 3 to it.
+current sum of the generated number up to now is 9 going to add 3 to it.
+current sum of the generated number up to now is 12 going to add 3 to it.
+current sum of the generated number up to now is 15 going to add 3 to it.
+current sum of the generated number up to now is 18 going to add 3 to it.
+current sum of the generated number up to now is 21 going to add 3 to it.
+current sum of the generated number up to now is 24 going to add 3 to it.
+current sum of the generated number up to now is 27 going to add 3 to it.
+current sum of the generated number up to now is 30 going to add 2 to it.
+current sum of the generated number up to now is 32 going to add 2 to it.
+current sum of the generated number up to now is 34 going to add 2 to it.
+current sum of the generated number up to now is 36 going to add 2 to it.
+current sum of the generated number up to now is 38 going to add 2 to it.
+current sum of the generated number up to now is 40 going to add 9 to it.
+current sum of the generated number up to now is 49 going to add 9 to it.
+current sum of the generated number up to now is 58 going to add 9 to it.
+current sum of the generated number up to now is 67 going to add 9 to it.
+current sum of the generated number up to now is 76 going to add 9 to it.
+current sum of the generated number up to now is 85 going to add 0 to it.
+current sum of the generated number up to now is 85 going to add 0 to it.
+current sum of the generated number up to now is 85 going to add 0 to it.
+current sum of the generated number up to now is 85 going to add 0 to it.
+current sum of the generated number up to now is 85 going to add 0 to it.
+current sum of the generated number up to now is 85 going to add 8 to it.
+current sum of the generated number up to now is 93 going to add 8 to it.
+current sum of the generated number up to now is 101 going to add 8 to it.
+current sum of the generated number up to now is 109 going to add 8 to it.
+current sum of the generated number up to now is 117 going to add 8 to it.
+current sum of the generated number up to now is 125 going to add 2 to it.
+current sum of the generated number up to now is 127 going to add 2 to it.
+current sum of the generated number up to now is 129 going to add 2 to it.
+current sum of the generated number up to now is 131 going to add 2 to it.
+current sum of the generated number up to now is 133 going to add 2 to it.
+current sum of the generated number up to now is 135 going to add 6 to it.
+current sum of the generated number up to now is 141 going to add 6 to it.
+current sum of the generated number up to now is 147 going to add 6 to it.
+current sum of the generated number up to now is 153 going to add 6 to it.
+current sum of the generated number up to now is 159 going to add 6 to it.
+current sum of the generated number up to now is 165 going to add 6 to it.
+current sum of the generated number up to now is 171 going to add 6 to it.
+current sum of the generated number up to now is 177 going to add 6 to it.
+current sum of the generated number up to now is 183 going to add 6 to it.
+current sum of the generated number up to now is 189 going to add 6 to it.
+current sum of the generated number up to now is 195 going to add 9 to it.
+current sum of the generated number up to now is 204 going to add 9 to it.
+current sum of the generated number up to now is 213 going to add 9 to it.
+current sum of the generated number up to now is 222 going to add 9 to it.
+current sum of the generated number up to now is 231 going to add 9 to it.
+current sum of the generated number up to now is 240 going to add 1 to it.
+current sum of the generated number up to now is 241 going to add 1 to it.
+current sum of the generated number up to now is 242 going to add 1 to it.
+current sum of the generated number up to now is 243 going to add 1 to it.
+current sum of the generated number up to now is 244 going to add 1 to it.
+current sum of the generated number up to now is 245 going to add 1 to it.
+current sum of the generated number up to now is 246 going to add 1 to it.
+current sum of the generated number up to now is 247 going to add 1 to it.
+current sum of the generated number up to now is 248 going to add 1 to it.
+current sum of the generated number up to now is 249 going to add 1 to it.
+current sum of the generated number up to now is 250 going to add 3 to it.
+current sum of the generated number up to now is 253 going to add 3 to it.
+current sum of the generated number up to now is 256 going to add 3 to it.
+current sum of the generated number up to now is 259 going to add 3 to it.
+current sum of the generated number up to now is 262 going to add 3 to it.
+current sum of the generated number up to now is 265 going to add 5 to it.
+current sum of the generated number up to now is 270 going to add 5 to it.
+current sum of the generated number up to now is 275 going to add 5 to it.
+current sum of the generated number up to now is 280 going to add 5 to it.
+current sum of the generated number up to now is 285 going to add 5 to it.
+current sum of the generated number up to now is 290 going to add 8 to it.
+current sum of the generated number up to now is 298 going to add 8 to it.
+current sum of the generated number up to now is 306 going to add 8 to it.
+current sum of the generated number up to now is 314 going to add 8 to it.
+current sum of the generated number up to now is 322 going to add 8 to it.
+current sum of the generated number up to now is 330 going to add 3 to it.
+current sum of the generated number up to now is 333 going to add 3 to it.
+current sum of the generated number up to now is 336 going to add 3 to it.
+current sum of the generated number up to now is 339 going to add 3 to it.
+current sum of the generated number up to now is 342 going to add 3 to it.
+current sum of the generated number up to now is 345 going to add 0 to it.
+current sum of the generated number up to now is 345 going to add 0 to it.
+current sum of the generated number up to now is 345 going to add 0 to it.
+current sum of the generated number up to now is 345 going to add 0 to it.
+current sum of the generated number up to now is 345 going to add 0 to it.
+current sum of the generated number up to now is 345 going to add 6 to it.
+current sum of the generated number up to now is 351 going to add 6 to it.
+current sum of the generated number up to now is 357 going to add 6 to it.
+current sum of the generated number up to now is 363 going to add 6 to it.
+current sum of the generated number up to now is 369 going to add 6 to it.
+current sum of the generated number up to now is 375 going to add 9 to it.
+current sum of the generated number up to now is 384 going to add 9 to it.
+current sum of the generated number up to now is 393 going to add 9 to it.
+current sum of the generated number up to now is 402 going to add 9 to it.
+current sum of the generated number up to now is 411 going to add 9 to it.
+current sum of the generated number up to now is 420 going to add 2 to it.
+current sum of the generated number up to now is 422 going to add 2 to it.
+current sum of the generated number up to now is 424 going to add 2 to it.
+current sum of the generated number up to now is 426 going to add 2 to it.
+current sum of the generated number up to now is 428 going to add 2 to it.
+--+---+----+----------+---------+---+--+---+------+----
+The sum of produced items for this number generator at the end is: 86 
+--+---+----+----------+---------+---+--+---+------+----
+--+---+----+----------+---------+---+--+---+------+----
+The sum of produced items for this number generator at the end is: 86 
+--+---+----+----------+---------+---+--+---+------+----
+--+---+----+----------+---------+---+--+---+------+----
+The sum of produced items for this number generator at the end is: 86 
+--+---+----+----------+---------+---+--+---+------+----
+--+---+----+----------+---------+---+--+---+------+----
+The sum of produced items for this number generator at the end is: 86 
+--+---+----+----------+---------+---+--+---+------+----
+--+---+----+----------+---------+---+--+---+------+----
+The sum of produced items for this number generator at the end is: 86 
+--+---+----+----------+---------+---+--+---+------+----
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The value of counter at the end is: 430 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+RUN SUCCESSFUL (total time: 422ms)
